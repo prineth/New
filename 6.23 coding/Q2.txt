@@ -1,0 +1,47 @@
+write a single c statement for each of the following expression.
+ 
+
+1.Incriment the value of x by 1 and assing the answer to y
+
+y=++x;
+
+2.Assign the variable x to y and then incriment x by 1
+
+Y=x++;
+
+3.Incriment the value  of x and y by 1 and then assign the difference to z
+
+z=++x - ++y;
+
+4.Assign the sum of x and y to z and the then decrement the value of x by 1
+
+z=x-- + y;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
